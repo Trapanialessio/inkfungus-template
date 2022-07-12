@@ -160,7 +160,8 @@ Narratore "Sei all’ingresso e puoi salire verso la collina dove si trova il pa
 
 === paragrafo16 ===
 
-Narratore "Ti guardi un po’ intorno e vedi che alla destra dell’ingresso si trova un’ entrata per le fogne e grazie alla tua chiave inglese riesci ad aprirti la via senza troppi problemi.
+Narratore "Ti guardi un po’ intorno e vedi che alla destra dell’ingresso si trova un’ entrata per le fogne
+Narratore "e grazie alla tua chiave inglese riesci ad aprirti la via senza troppi problemi.
 -> paragrafo18
 
 === paragrafo17 ===
@@ -249,9 +250,12 @@ Narratore "Una volta finito prendi tuo padre in spalla e torni finalmente a casa
 -> END
 
 === paragrafo27 ===
-Narratore "Decidi di porre fine alle sue sofferenze ma tuo padre inizia a correre verso di te caricando con la spalla. All’ultimo secondo riesci a schivare e lui finisce per distruggere il muro dietro di te, in quel momento decidi di nasconderti sotto un bancone e aspettare il momento giusto.
+Narratore "Decidi di porre fine alle sue sofferenze ma tuo padre inizia a correre verso di te caricando con la spalla. 
+Narratore "All’ultimo secondo riesci a schivare e lui finisce per distruggere il muro dietro di te, in quel momento decidi di nasconderti sotto un bancone
+Narratore "e aspettare il momento giusto.
 Narratore "Lui torna dentro la stanza ed inizia a cercarti ma appena ti passa davanti, sgattaioli fuori e gli salti in groppa cominciando a colpire con forza in testa. 
-Narratore "Alla fine del combattimento l’unica cosa che ti conforta è sapere che chi ha fatto questo a tuo padre giace per terra senza vita per causa sua e con un pianto che dura tutto il viaggio, torni finalmente a casa.
+Narratore "Alla fine del combattimento l’unica cosa che ti conforta è sapere che chi ha fatto questo a tuo padre giace per terra senza vita per causa sua
+Narratore "e con un pianto che dura tutto il viaggio, torni finalmente a casa.
 -> END
 
 === paragrafo29 ===

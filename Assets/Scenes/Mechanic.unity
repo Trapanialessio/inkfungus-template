@@ -333,18 +333,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 779.4535, y: 59.094406}
+  scrollPos: {x: 681.6111, y: 51.908367}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 530
-  zoom: 0.8200002
+  zoom: 0.8800001
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 5782893}
   selectedCommands: []
   variables:
   - {fileID: 5782950}
@@ -388,7 +389,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -316.14124
     y: 99.79089
-    width: 109.75609
+    width: 112.49999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -518,7 +519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -161.77599
     y: 97.68375
-    width: 130.4878
+    width: 128.40909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -569,7 +570,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 7.454834
     y: 33.947533
-    width: 110.9756
+    width: 110.227264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -693,7 +694,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 154.7076
     y: 33.94747
-    width: 98.78048
+    width: 99.99999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -838,7 +839,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 283.2789
     y: 31.749672
-    width: 103.65852
+    width: 103.40909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -941,7 +942,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 287.6747
     y: 95.48591
-    width: 92.68292
+    width: 92.04545
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1086,7 +1087,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 422.01535
     y: 28.7827
-    width: 130.4878
+    width: 129.54544
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1189,7 +1190,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 559.927
     y: 96.91451
-    width: 128.04877
+    width: 127.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1407,7 +1408,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 570.36615
     y: 26.5849
-    width: 102.43901
+    width: 102.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1529,9 +1530,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 763.2235
-    y: 33.17828
-    width: 85.365845
+    x: 707.5416
+    y: 25.223736
+    width: 85.227264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4092,7 +4093,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -0.5937451
     y: 191.8943
-    width: 107.31706
+    width: 106.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4139,7 +4140,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.8691063
     y: 243.6801
-    width: 108.536575
+    width: 109.0909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4148,9 +4149,9 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 5782964}
   commandList:
+  - {fileID: 5782959}
   - {fileID: 5782963}
   - {fileID: 5782962}
-  - {fileID: 5782959}
   - {fileID: 5782961}
   - {fileID: 5782960}
   suppressAllAutoSelections: 0
@@ -4170,7 +4171,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -130.10884
     y: 190.66159
-    width: 75.60975
+    width: 75
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7547,7 +7548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Giocatore
   nameColor: {r: 0.3484336, g: 0.8490566, b: 0.7989189, a: 1}
-  soundEffect: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: 2566b40991235e24c93cdc8dfbb1b2ec, type: 3}
   portraits:
   - {fileID: 21300000, guid: 3db1665ff5d9a8048a47d5e052759f88, type: 3}
   portraitsFace: 0
@@ -8688,7 +8689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Guardia
   nameColor: {r: 1, g: 0.9316046, b: 0.3915094, a: 1}
-  soundEffect: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: 40b569daae08e6940940a3627a1db62f, type: 3}
   portraits:
   - {fileID: 21300000, guid: 8706053eb4af78e4f9491fa5776b4f82, type: 3}
   portraitsFace: 0
@@ -9313,7 +9314,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Strega medica
   nameColor: {r: 0.25854397, g: 0.6603774, b: 0.34033394, a: 1}
-  soundEffect: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: 651d320f733eff24483d2d70fbf73e2c, type: 3}
   portraits:
   - {fileID: 21300000, guid: d43033b53ea7dcb4c996af3d8e35852b, type: 3}
   portraitsFace: 0
