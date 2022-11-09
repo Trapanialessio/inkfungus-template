@@ -1,4 +1,5 @@
 VAR localizzazione = "casa"
+VAR hasVaccine = false
 
 -> paragrafo1
 
@@ -59,7 +60,7 @@ Narratore "In quel momento ricordi una conversazione con un cacciatore che ti av
 -> paragrafo8
 
 === paragrafo7 ===
-
+~ hasVaccine = true
 Narratore "Decidi di entrare nella stanza e appena entri ti rassicuri notando le bandiere degli ospedali della regione. 
 Narratore "Da dietro una tenda spunta una donna anziana bassa con la gobba che ti chiede quale sia lo scopo della tua visita.
 Giocatore "Vorrei chiederle se per caso ha visto un uomo con una canottiera bianca, dei pantaloni grigi e un po’ di pancetta.
@@ -224,7 +225,7 @@ Narratore "Entri nei laboratori e davanti a te trovi una specie di minotauro chi
 Narratore "A primo impatto noti una grossa muscolatura su zampe e braccia ma appena si gira a guardarti 
 Narratore "noti che indossa una canottiera bianca ed ha un viso familiare… è tuo padre!
 Narratore "Sai già che l’unica cosa che puoi fare è fermare questo orrore, la fuga non funzionerebbe data la muscolatura sulle zampe.
-* Vaccino.
+* {hasVaccine == true} Vaccino.
 -> paragrafo26
 * Combatti.
 -> paragrafo27
